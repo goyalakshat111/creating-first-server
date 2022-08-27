@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server",
+  "version": "1.0.0",
+  "description": "my first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goyalakshat111/creating-first-server.git"
+  },
+  "author": "Akshat Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goyalakshat111/creating-first-server/issues"
+  },
+  "homepage": "https://github.com/goyalakshat111/creating-first-server#readme"
+}
